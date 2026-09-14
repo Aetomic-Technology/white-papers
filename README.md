@@ -21,6 +21,12 @@ Our work currently focuses on:
 
 Where appropriate, papers may also document concepts, architectures, experiments, lessons, and design principles emerging from the development of Aetomic technologies, including **AEGIS** and **Lightbringer**.
 
+## Research Experiments
+
+- **Lightbringer Constitutional Baseline — Pre-Frontier Model (LB-EXP-001)**  
+  `research/lightbringer-constitutional-baseline/`  
+  A reproducible experiment intended to preserve Lightbringer's raw constitutional reasoning output before integration with a frontier reasoning model. The package includes the fixed question, source doctrine, staged deliberation runner, cryptographic provenance and an immutable run archive.
+
 ## Our Approach
 
 Aetomic approaches technology from an operational perspective.
