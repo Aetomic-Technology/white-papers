@@ -4,6 +4,12 @@ This repository contains public white papers, technical papers, research notes, 
 
 Our work explores the design and application of **Operational Intelligence**: systems that help people understand complex operating environments, assess changing conditions, manage uncertainty, and make better decisions about what happens next.
 
+## White Papers
+
+- **AETOMIC-WP-001 — Governance Must Be Architecture**  
+  `papers/AETOMIC-WP-001-governance-must-be-architecture.md`  
+  Aetomic's position on artificial intelligence, human authority and the control of machine action. The paper argues that where AI can influence consequential real-world decisions, appropriate governance should, where technically possible, be engineered into the architecture through which machine intelligence participates in operations.
+
 ## Areas of Research
 
 Our work currently focuses on:
